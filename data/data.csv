@@ -1,0 +1,54 @@
+Jenis,Program Studi,Jenjang,Akreditasi,Deskripsi,Fakultas,Gelar,Lama Studi
+Jurusan,Teknik Informatika,S1,Unggul,"Program studi yang mempelajari pemrograman, algoritma, struktur data, dan pengembangan perangkat lunak",Fakultas Ilmu Komputer,S.Kom,4 Tahun
+Jurusan,Sistem Informasi,S1,Unggul,"Program studi yang mempelajari analisis, desain, dan implementasi sistem informasi bisnis",Fakultas Ilmu Komputer,S.Kom,4 Tahun
+
+Jenis,Jalur Pendaftaran,Syarat,Biaya,Cara Daftar,Jadwal
+Pendaftaran,Mandiri,"Ijazah SMA, KTP, KK","Rp 200.000","Online melalui website kampus","Januari - Maret"
+Pendaftaran,Beasiswa Prestasi,"Rapor nilai minimal 85, Sertifikat prestasi",Gratis,"Seleksi berkas + wawancara","Januari - Februari"
+Pendaftaran,Beasiswa Rapor,Rata-rata rapor minimal 85,Gratis,Seleksi nilai rapor,"Januari - Februari"
+Pendaftaran,Beasiswa Nilai UTBK,"SKOR UTBK minimal 550",Gratis,Seleksi nilai UTBK,"Januari - Februari"
+
+Jenis,Nama Dosen,Jurusan,Jabatan,Email,Mata Kuliah
+Dosen,Prof. Dr. Ir. Wiranto Herry Utomo M.Kom,Teknik Informatika,Dean,Wiranto@kampus.ac.id,Algoritma dan Pemrograman
+Dosen,Arif Hardi S.T. M.Sc,Teknik Informatika,Head of Informatics,arif@kampus.ac.id,Struktur Data
+Dosen,Abdul Ghofir,Teknik Informatika,Lecturer,abdul@kampus.ac.id,Pemrograman Web
+Dosen,Andika Candra Jaya,Teknik Informatika,Lecturer,andika@kampus.ac.id,Database
+Dosen,Nur Hadisukmana,Teknik Informatika,Lecturer,nur@kampus.ac.id,Jaringan Komputer
+Dosen,Prof. Dr. Muljono,Teknik Informatika,Lecturer,muljono@kampus.ac.id,Kecerdasan Buatan
+Dosen,Williem,Teknik Informatika,Lecturer,williem@kampus.ac.id,Sistem Operasi
+Dosen,Shella Eldwina Fitri S.T. M.Eng,Teknik Informatika,Lecturer,shella@kampus.ac.id,Pemrograman Mobile
+Dosen,Gilang Gumelar M.Kom,Teknik Informatika,Lecturer,gilang@kampus.ac.id,Desain UI/UX
+Dosen,Yenni Herayani S.Kom. M.Kom,Sistem Informasi,Head of Information System,yenni@kampus.ac.id,Analisis Sistem Informasi
+Dosen,Genta Sahuri,Sistem Informasi,Lecturer,genta@kampus.ac.id,Manajemen Basis Data
+Dosen,Hadi Suprayitno,Sistem Informasi,Lecturer,hadi@kampus.ac.id,E-Bisnis
+Dosen,Hasanul Fahmi,Sistem Informasi,Lecturer,hasanul@kampus.ac.id,Enterprise Architecture
+Dosen,Rikip Ginanjar,Sistem Informasi,Lecturer,rikip@kampus.ac.id,Pemrograman Web Lanjut
+Dosen,Doni S.Kom M.Kom,Sistem Informasi,Lecturer,doni@kampus.ac.id,Sistem Pendukung Keputusan
+
+Jenis,Nama Fasilitas,Lokasi,Deskripsi,Jam Operasional
+Fasilitas,Ruang Kelas Modern,Gedung A,"AC, Proyektor, Smartboard","08.00 - 17.00"
+Fasilitas,Lab Komputer,Gedung B,"100 unit PC spesifikasi tinggi","08.00 - 20.00"
+Fasilitas,Internet/WiFi,Area Kampus,Kecepatan up to 100 Mbps,24 Jam
+Fasilitas,Discussion Area,Gedung C,Ruang diskusi kelompok,"08.00 - 21.00"
+Fasilitas,Perpustakaan,Gedung A Lt 2,"Koleksi 10.000+ buku dan jurnal","08.00 - 20.00"
+Fasilitas,Kantin,Gedung D,Makanan dan minuman terjangkau,"07.00 - 17.00"
+Fasilitas,Asrama,Kampus,Free asrama 1 tahun untuk mahasiswa baru,24 Jam
+Fasilitas,Lapangan Olahraga,Area Luar,Lapangan basket dan futsal,"06.00 - 18.00"
+
+Jenis,Program,Target Mahasiswa,Fleksibilitas,Jenis Kelas,Waktu Kuliah
+Program Perkuliahan,Reguler,Lulusan SMA/SMK,Rendah,Standar,"Pagi - Sore (08.00 - 16.00)"
+Program Perkuliahan,Non-Reguler,Karyawan/Profesional,Tinggi,Fleksibel,"Sore - Malam (17.00 - 21.00)"
+
+Jenis,Kegiatan,Tanggal Mulai,Tanggal Selesai,Keterangan
+Kalender Akademik,Pendaftaran Mahasiswa Baru,1 Januari 2025,28 Februari 2025,Gelombang 1
+Kalender Akademik,Pendaftaran Mahasiswa Baru,1 Maret 2025,30 April 2025,Gelombang 2
+Kalender Akademik,UTS,10 Maret 2025,18 Maret 2025,Ujian Tengah Semester
+Kalender Akademik,UAS,2 Juni 2025,10 Juni 2025,Ujian Akhir Semester
+Kalender Akademik,Liburan Semester,15 Juni 2025,31 Juli 2025,Libur panjang
+
+Jenis,Benefit,Keterangan
+Benefit,Beasiswa Prestasi,Bebas biaya kuliah untuk mahasiswa berprestasi
+Benefit,Free Asrama 1 Tahun,Khusus mahasiswa baru dari luar kota
+Benefit,Magang di Perusahaan Mitra,Magang bersertifikat di perusahaan ternama
+Benefit,Laptop Program,Peminjaman laptop untuk mahasiswa berprestasi
+Benefit,English Club,Gratis kursus bahasa Inggris
